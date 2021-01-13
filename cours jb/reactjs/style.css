@@ -1,0 +1,24 @@
+#title{
+    color: white;
+    background-color: green;
+    padding: 10px;
+    margin: 0;
+}
+#score{
+    text-align: center;
+    font-size: 50px;
+}
+#box-button{
+    text-align: center;
+}
+#button1{
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+}
+#button2{
+    text-align: center;
+    margin-left: 10px;
+    font-size: 50px;
+    padding: 10px;
+}
